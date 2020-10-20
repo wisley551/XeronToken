@@ -4,7 +4,7 @@ XeronToken is a Proof-of-Stake Smart Contract Token on Ethereum
 ## What is XeronToken
 XeronToken is one the world's first Proof-of-Stake smart contract token on Ethereum platform. It's based on the ERC20 Token Standard and implements all standard methods. As an Ethereum token, XeronToken implements the Proof-of-Stake mechanism, meaning that every holder can earn some extra tokens just by holding PoSToken for a period of at least 3 days, greater than or equal to The Minimum Coin Age.
 
-## Specifications of PoSToken
+## Specifications of XeronToken
 * **Name**: XeronToken
 * **Symbol**: XRN
 * **Decimals**: 12
