@@ -21,5 +21,5 @@ XeronToken is one the world's first Proof-of-Stake smart contract token on Ether
   + 3rd - 15th Year Interest: -30%
 
 ## Resource
-**[Website](https://xerontoken.org)** | **[Whitepaper](https://xerontoken.org/whitepaper.pdf)** | **[Twitter](https://twitter/XeronToken)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2110712.0)** | **[Slack]
-[Telegram](https://t.me/XeronToken)**
+**[Website](https://xerontoken.org)** | **[Whitepaper](https://xerontoken.org/whitepaper.pdf)** | **[Twitter](https://twitter/XeronToken)**  |
+**[Telegram](https://t.me/XeronToken)**
